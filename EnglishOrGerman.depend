@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609180643 source:/Users/davutbalik/Documents/CProject/EnglishOrGerman/main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
